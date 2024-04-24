@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.image{
+    border-radius:50%;
+}
+.card{
+    background-color: grey;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+}
+.card h3{
+    line-height: 0;
+}
+.card h5{
+    line-height: 3;
+}
+button:hover{
+    background-color: chartreuse;
+    color: black;
+}
+.pop1{
+  background: black;
+  border: 10px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 300px;
+  font-weight: 600;
+
+}
+.text{
+    color: chartreuse;
+}
